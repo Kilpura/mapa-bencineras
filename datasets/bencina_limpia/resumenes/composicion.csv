@@ -1,0 +1,47 @@
+region_limpia,tipo_distribuidor,cantidad,porcentaje
+Antofagasta,Grande,6261,96.48636153490523
+Antofagasta,Independiente,224,3.4519956850053934
+Antofagasta,Sin Bandera,4,0.06164278008938204
+Araucanía,Grande,15449,80.48450117218026
+Araucanía,Independiente,2472,12.878353737952592
+Araucanía,Sin Bandera,1274,6.637145089867152
+Arica y Parinacota,Grande,1919,88.3110906580764
+Arica y Parinacota,Independiente,155,7.13299585826047
+Arica y Parinacota,Sin Bandera,99,4.555913483663138
+Atacama,Grande,4347,96.30039875941515
+Atacama,Independiente,167,3.6996012405848475
+Aysén,Grande,2915,95.07501630789302
+Aysén,Independiente,44,1.4350945857795172
+Aysén,Sin Bandera,107,3.489889106327462
+Biobío,Grande,21870,89.80781865965835
+Biobío,Independiente,1648,6.767411300919843
+Biobío,Sin Bandera,834,3.4247700394218135
+Coquimbo,Grande,13874,95.55754528548798
+Coquimbo,Independiente,481,3.3129003374888075
+Coquimbo,Sin Bandera,164,1.1295543770232108
+Los Lagos,Grande,14114,94.18123582009876
+Los Lagos,Independiente,788,5.258241024956626
+Los Lagos,Sin Bandera,84,0.5605231549446149
+Los Ríos,Grande,6569,89.25271739130434
+Los Ríos,Independiente,566,7.690217391304348
+Los Ríos,Sin Bandera,225,3.057065217391304
+Magallanes,Grande,3499,95.15909709001905
+Magallanes,Independiente,178,4.840902909980962
+Maule,Grande,17529,70.46834170854271
+Maule,Independiente,4944,19.87537688442211
+Maule,Sin Bandera,2402,9.656281407035177
+Metropolitana,Grande,113229,90.44644497519751
+Metropolitana,Independiente,7436,5.939818993681553
+Metropolitana,Sin Bandera,4524,3.613736031120945
+O'Higgins,Grande,15298,82.64721772015126
+O'Higgins,Independiente,1548,8.363047001620744
+O'Higgins,Sin Bandera,1664,8.989735278227986
+Tarapacá,Grande,3721,95.41025641025641
+Tarapacá,Independiente,140,3.5897435897435894
+Tarapacá,Sin Bandera,39,1.0
+Valparaíso,Grande,31507,88.56002473508165
+Valparaíso,Independiente,3037,8.536413975321135
+Valparaíso,Sin Bandera,1033,2.903561289597212
+Ñuble,Grande,7905,78.035538005923
+Ñuble,Independiente,1255,12.388943731490622
+Ñuble,Sin Bandera,970,9.575518262586376
